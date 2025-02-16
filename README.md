@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm fcuszljacobgallagher215
 
-<!--
-**fcuszljacobgallagher215/fcuszljacobgallagher215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎻 🏊 🏄 A nerd in open source 🎻 🏊 🏄
 
-Here are some ideas to get you started:
+## About Me
+🎱 🛼 💡 🎣 Ready to work on internet of things 🎱 🛼 💡 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎸 🚴 Looking to collaborate on UI/UX design 🎸 🚴
+
+### Fun Facts
+🎱 🏄 🛼 A passionate developer who loves natural language processing 🎱 🏄 🛼
+
+---
+🎬 🎮 🛶 🎷 🎣 Thanks for visiting my profile! 🏓 🎷 🎱 🏏 🏄
